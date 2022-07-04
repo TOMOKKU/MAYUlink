@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 #ruby-mqtt gem
-gem 'mqtt', :git => 'https://github.com/njh/ruby-mqtt.git'
+gem 'mqtt', '~> 0.5.0'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
