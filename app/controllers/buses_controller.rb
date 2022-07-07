@@ -1,6 +1,6 @@
 class BusesController < ApplicationController
-    
-    def mayuinfo
-        in = require
 
+    def mayuinfo
+    end
+    
 end
